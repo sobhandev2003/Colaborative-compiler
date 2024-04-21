@@ -106,12 +106,12 @@
 
     
 
-  "start": "npm run build && npm run server:prod",
+  "build": "npm run build && npm run server:prod",
   
 
     
 
-  "build": "react-scripts build",
+  "build:front": "react-scripts build",
   
 
     
